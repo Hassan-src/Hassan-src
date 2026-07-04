@@ -69,7 +69,7 @@ A very simple pizza menu using the most basic state use in react.
 ## 📫 Let’s Connect
 
 - 📧 **Email**: hassane2881@yahoo.com
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/@Hassan__0928)
+- 🐦 **Twitter**: [@yourhandle](https://twitter.com/hassan__0928)
 - 📲 **Telegram**: [@HassanSrc](https://t.me/@HassanSrc)
 
 ---
