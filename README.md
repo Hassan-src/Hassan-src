@@ -60,9 +60,9 @@ A very simple pizza menu using the most basic state use in react.
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassan-src&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-stats-extended.vercel.app/api?username=Hassan-src&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-src&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hassan-src&layout=compact&theme=radical)
 
 ---
 
