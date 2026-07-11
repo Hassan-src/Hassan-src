@@ -143,20 +143,32 @@ I am interested in:
 
 # 📫 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="mailto:hassane2881@yahoo.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail"/>
 </a>
 
-<a href="https://twitter.com/hassan__0928">
-<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://www.linkedin.com/in/hassansrc/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Hassan-src">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://t.me/HassanSrc">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
+<a href="https://twitter.com/hassan__0928">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hassan-src&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
