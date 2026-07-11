@@ -69,7 +69,7 @@ A React application that helps friends split bills and automatically track who o
 - 🎨 Interactive user interface
 
 - **[Live Demo](https://eat-n-split-beta.vercel.app/)** 
-- **[Source Code](https://github.com/Hassan-src/bill-splitter)**
+- **[Source Code](https://github.com/Hassan-src/Eat-N-Split)**
 
 ---
 
