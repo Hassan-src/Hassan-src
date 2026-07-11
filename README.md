@@ -1,11 +1,15 @@
 # 👋 Hi, I’m Hassan Esmaeilpour
 
 [![GitHub followers](https://img.shields.io/github/followers/Hassan-src?label=Follow&style=social)](https://github.com/Hassan-src)
-[![Twitter Follow](https://img.shields.io/twitter/follow/@Hassan__0928?style=social)](https://twitter.com/@Hassan__0928)
+<a href="https://twitter.com/hassan__0928">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
 <a href="https://www.linkedin.com/in/hassansrc/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/HassanSrc)
+<a href="https://t.me/HassanSrc">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 
 ### 💻 Computer Engineering Graduate | Front-End Developer | Aspiring Full-Stack Software Engineer
 
