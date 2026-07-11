@@ -3,58 +3,130 @@
 [![GitHub followers](https://img.shields.io/github/followers/Hassan-src?label=Follow&style=social)](https://github.com/Hassan-src)
 [![Twitter Follow](https://img.shields.io/twitter/follow/@Hassan__0928?style=social)](https://twitter.com/@Hassan__0928)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/HassanSrc)
+
+### 💻 Computer Engineering Graduate | Front-End Developer | Aspiring Full-Stack Software Engineer
+
+I'm a **Computer Engineering graduate** passionate about building modern web applications and solving real-world problems through software.
+
+I enjoy transforming ideas into interactive products, writing clean and maintainable code, and continuously improving my engineering skills.
+
+Currently, my main focus is **frontend development with React**, while expanding toward **full-stack software engineering** through TypeScript, Next.js, backend development, databases, and modern software architecture.
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a **Front‑end Developer** passionate about building clean, interactive web apps with **React**.  
-I love turning ideas into code, solving real‑world problems, and continuously learning new technologies.
+## 🚀 About Me
 
-- 🔭 Currently working on: **React projects** and improving my UI/UX skills.
-- 🌱 Learning: **Advanced React patterns**, **TypeScript**, and **Tailwind CSS**.
-- 💬 Ask me about: **React**, **JavaScript**, **CSS**, and **state management**.
-- ⚡ Fun fact: I enjoy building tools that make everyday tasks easier – like splitting bills! 😄
+- 🎓 Computer Engineering Graduate
+- 💻 Front-End Developer focused on React
+- 🌱 Currently learning TypeScript, Next.js, and backend development
+- 🔭 Building practical web applications and improving my engineering skills
+- 🎯 Goal: Become a Full-Stack Software Engineer
+- ⚡ I enjoy creating tools that solve everyday problems
 
 ---
 
 ## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+# 🛠️ Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+## Backend (Learning)
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
+</p>
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,docker" />
+</p>
 
 ---
 
-## 📁 Featured Projects
 
-### 🧾 Eat-N-Split – React App
+# 📂 Featured Projects
 
-A practical tool to split bills with friends and track who owes whom.  
-**Features**: add friends, split bills, update balances dynamically, and see real‑time status.
+## 🍽️ Eat-N-Split
 
+A React application that helps friends split bills and automatically track who owes money.
+
+### Features
+
+- 👥 Add and manage friends
+- 💰 Split expenses
+- 📊 Dynamic balance calculation
+- ⚛️ React state management
+- 🎨 Interactive user interface
 - **[Live Demo](https://eat-n-split-beta.vercel.app/)** 
 - **[Source Code](https://github.com/Hassan-src/bill-splitter)**
 
 ---
+## ✈️ Travel List
 
-### ✈️ Travel List
+A travel packing list application built with React that helps users organize and manage items needed for trips.
 
-A simple travel list app in which you can track your needed luggage for travel.
+### Features
+
+- ➕ Add items
+- ✅ Mark items as completed
+- 🗑️ Delete items
+- 📦 Track packing progress
+- ⚛️ Component-based architecture
 
 - **[Live Demo](https://travel-list-lime-alpha.vercel.app/)**
 - **[Source Code](https://github.com/Hassan-src/Travel-list)**
 
 ---
 
-### 🍕 Pizza-Menu
+## 🍕 React Pizza Menu
 
-A very simple pizza menu using the most basic state use in react.
+My first React project where I learned the fundamentals of component-based development.
+
+### Features
+
+- ⚛️ React components
+- 📦 Props
+- 🔄 Rendering lists
+- 🎨 Basic UI development
 
 - **[Live Demo](https://react-pizza-menu-seven.vercel.app/)**
 - **[Source Code](https://github.com/Hassan-src/React-Pizza-Menu)**
+
+---
+
+# 📚 Currently Learning
+
+- ⚛️ Advanced React patterns
+- 📘 TypeScript
+- ▲ Next.js
+- 🟢 Node.js
+- 🗄️ PostgreSQL
+- 🔷 Prisma ORM
+- 🐳 Docker
+- 🧪 Testing
+- 🏗️ Software Architecture
+- 📐 System Design Fundamentals
+
+---
+
+# 🎯 Future Goals
+
+My goal is to grow as a software engineer by building reliable, scalable, and user-friendly applications.
+
+I am interested in:
+
+- Full-stack web development
+- Software architecture
+- Cloud-based applications
+- Developer tools
+- Building products that solve real problems
 
 ---
 
@@ -66,11 +138,45 @@ A very simple pizza menu using the most basic state use in react.
 
 ---
 
-## 📫 Let’s Connect
+# 📊 GitHub Stats
 
-- 📧 **Email**: hassane2881@yahoo.com
-- 🐦 **Twitter**: [@hassan__0928](https://twitter.com/hassan__0928)
-- 📲 **Telegram**: [@HassanSrc](https://t.me/@HassanSrc)
+<p align="center">
+<img 
+src="https://github-readme-stats.vercel.app/api?username=Hassan-src&show_icons=true&theme=tokyonight&hide_border=true"
+height="170"
+/>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-src&layout=compact&theme=tokyonight&hide_border=true"
+height="170"
+/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="mailto:hassane2881@yahoo.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/hassan__0928">
+<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://t.me/HassanSrc">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+> "Good software is not only about making things work — it's about creating solutions that people enjoy using."
 
 ---
 
