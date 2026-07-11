@@ -11,9 +11,8 @@ I'm a **Computer Engineering graduate** passionate about building modern web app
 I enjoy transforming ideas into interactive products, writing clean and maintainable code, and continuously improving my engineering skills.
 
 Currently, my main focus is **frontend development with React**, while expanding toward **full-stack software engineering** through TypeScript, Next.js, backend development, databases, and modern software architecture.
----
 
-## 🧑‍💻 About Me
+---
 
 ## 🚀 About Me
 
@@ -25,8 +24,6 @@ Currently, my main focus is **frontend development with React**, while expanding
 - ⚡ I enjoy creating tools that solve everyday problems
 
 ---
-
-## 🛠️ Tech Stack
 
 # 🛠️ Tech Stack
 
@@ -50,7 +47,6 @@ Currently, my main focus is **frontend development with React**, while expanding
 
 ---
 
-
 # 📂 Featured Projects
 
 ## 🍽️ Eat-N-Split
@@ -68,6 +64,7 @@ A React application that helps friends split bills and automatically track who o
 - **[Source Code](https://github.com/Hassan-src/bill-splitter)**
 
 ---
+
 ## ✈️ Travel List
 
 A travel packing list application built with React that helps users organize and manage items needed for trips.
@@ -140,17 +137,15 @@ I am interested in:
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img 
-src="https://github-readme-stats.vercel.app/api?username=Hassan-src&show_icons=true&theme=tokyonight&hide_border=true"
-height="170"
-/>
+<div align="center">
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-src&layout=compact&theme=tokyonight&hide_border=true"
-height="170"
-/>
-</p>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Hassan-src&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hassan-src&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-src&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
