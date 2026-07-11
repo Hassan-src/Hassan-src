@@ -127,14 +127,6 @@ I am interested in:
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-stats-extended.vercel.app/api?username=Hassan-src&show_icons=true&theme=radical)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hassan-src&layout=compact&theme=radical)
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
