@@ -56,6 +56,27 @@ Currently, my main focus is **frontend development with React**, while expanding
 
 # 📂 Featured Projects
 
+### ✅ Todo List
+A modern and responsive React application for managing daily tasks with a clean interface, smooth animations, and reusable components.
+
+**Features**
+
+- 📝 Create tasks
+- ✔️ Mark tasks as completed
+- 🗑️ Delete tasks
+- 🍔 Animated hamburger menu
+- 🎨 Custom-designed checkbox
+- 🪟 Task creation modal
+- 💡 Smooth CSS animations
+- 📱 Fully responsive design
+- ⚛️ Reusable React components
+- 🔄 Dynamic state management with React Hooks
+
+-**[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://todo-list-xi-nine-59.vercel.app/)**
+-**[![Source Code](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Hassan-src/Todo-list)**
+
+---
+
 ## 🍽️ Eat-N-Split
 
 A React application that helps friends split bills and automatically track who owes money.
@@ -68,8 +89,8 @@ A React application that helps friends split bills and automatically track who o
 - ⚛️ React state management
 - 🎨 Interactive user interface
 
-- **[Live Demo](https://eat-n-split-beta.vercel.app/)** 
-- **[Source Code](https://github.com/Hassan-src/Eat-N-Split)**
+-**[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://eat-n-split-beta.vercel.app/)**
+-**[![Source Code](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Hassan-src/Eat-N-Split)**
 
 ---
 
@@ -85,8 +106,8 @@ A travel packing list application built with React that helps users organize and
 - 📦 Track packing progress
 - ⚛️ Component-based architecture
 
-- **[Live Demo](https://travel-list-lime-alpha.vercel.app/)**
-- **[Source Code](https://github.com/Hassan-src/Travel-list)**
+-**[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://travel-list-lime-alpha.vercel.app/)**
+-**[![Source Code](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Hassan-src/Travel-list)**
 
 ---
 
@@ -101,8 +122,8 @@ My first React project where I learned the fundamentals of component-based devel
 - 🔄 Rendering lists
 - 🎨 Basic UI development
 
-- **[Live Demo](https://react-pizza-menu-seven.vercel.app/)**
-- **[Source Code](https://github.com/Hassan-src/React-Pizza-Menu)**
+-**[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://react-pizza-menu-seven.vercel.app/)**
+-**[![Source Code](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Hassan-src/React-Pizza-Menu)**
 
 ---
 
