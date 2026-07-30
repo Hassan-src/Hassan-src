@@ -160,14 +160,21 @@ I am interested in:
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Hassan-src&show_icons=true&theme=tokyonight&hide_border=true" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=Hassan-src&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hassan-src&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-src&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan-src&theme=tokyonight&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=Hassan-src&theme=tokyonight&hide_border=true"
+/>
 
 </div>
-
 ---
 
 # 📫 Connect With Me
