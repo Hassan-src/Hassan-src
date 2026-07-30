@@ -161,13 +161,7 @@ I am interested in:
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=Hassan-src&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-src&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-src&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 <img
