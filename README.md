@@ -162,6 +162,9 @@ I am interested in:
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Hassan-src&show_icons=true&theme=tokyonight&hide_border=true" /> 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hassan-src&layout=compact&theme=tokyonight&hide_border=true" /> 
+<img
+  src="https://streak-stats.demolab.com?user=Hassan-src&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
