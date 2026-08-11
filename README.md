@@ -219,10 +219,6 @@ I am interested in:
 
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hassan-src&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views"/>
-</p>
-
 ---
 
 # 💡 Developer Philosophy
