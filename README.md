@@ -56,7 +56,30 @@ Currently, my main focus is **frontend development with React**, while expanding
 
 # 📂 Featured Projects
 
-### ✅ Todo List
+### 🌤️ Nimbus
+A modern and responsive weather application built with React that provides real-time weather information and multi-day forecasts for cities around the world.
+
+**Features**
+
+- ⚛️ React component architecture
+- 🪝 Custom React Hooks
+- 🧠 Context API
+- 🔄 Asynchronous JavaScript
+- 🌐 REST API integration
+- 📡 Fetching external data
+- ⏳ Loading and error states
+- 🔄 Conditional rendering
+- 📱 Responsive CSS
+- 🧩 Component composition
+- 🗂️ Project organization
+- 🔐 Environment variables
+- ⚡ Vite development workflow
+- 🔍 ESLint and code quality
+- 🎨 Modern UI development
+
+---
+
+## ✅ Todo List
 A modern and responsive React application for managing daily tasks with a clean interface, smooth animations, and reusable components.
 
 **Features**
