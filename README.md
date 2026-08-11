@@ -77,6 +77,9 @@ A modern and responsive weather application built with React that provides real-
 - 🔍 ESLint and code quality
 - 🎨 Modern UI development
 
+-**[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://nimbus-green.vercel.app/)**
+-**[![Source Code](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Hassan-src/Nimbus)**
+
 ---
 
 ## ✅ Todo List
