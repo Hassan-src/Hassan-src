@@ -56,7 +56,7 @@ Currently, my main focus is **frontend development with React**, while expanding
 
 # 📂 Featured Projects
 
-### 🌤️ Nimbus
+## 🌤️ Nimbus
 A modern and responsive weather application built with React that provides real-time weather information and multi-day forecasts for cities around the world.
 
 **Features**
